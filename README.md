@@ -1,8 +1,5 @@
 # Alpaca PHP SDK
 
-![Packagist Version](https://img.shields.io/packagist/v/jeffreyhyer/alpaca-trade-api-php?label=Packagist)
-![Packagist](https://img.shields.io/packagist/dt/jeffreyhyer/alpaca-trade-api-php?color=blue&label=Downloads)
-
 This repository contains a PHP SDK for use with the
 [Alpaca](https://alpaca.markets?ref_by=858915e73e) API.
 
